@@ -1,0 +1,1 @@
+export { PersonEditorContainer } from './PersonEditorContainer';
